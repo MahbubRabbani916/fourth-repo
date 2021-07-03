@@ -12,3 +12,8 @@ body{
 h1{
     color: #fff;
 }
+.box{
+    height: 400px;
+    width:400px;
+    margin:auto;
+}
